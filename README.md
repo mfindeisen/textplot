@@ -111,3 +111,5 @@ In [4]: nx.degree_centrality(g.graph)
 ---
 
 Texplot uses **[numpy](http://www.numpy.org)**, **[scipy](http://www.scipy.org)**, **[scikit-learn](http://scikit-learn.org)**, **[matplotlib](http://matplotlib.org)**, **[networkx](http://networkx.github.io)**, and **[clint](https://github.com/kennethreitz/clint)**.
+
+German stopwords list from **[https://code.google.com/p/stop-words/](https://code.google.com/p/stop-words/)**.
